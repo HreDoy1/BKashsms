@@ -3,9 +3,9 @@
 
 # Install In Termux 
 
-`pkg update && pkg upgrade && pkg install git && git clone https://github.com/TeamBlackBerry/BkashBomber`
+`pkg update && pkg upgrade && pkg install git && git clone https://github.com/HreDoy1/BKashsms`
 
-`cd BkashBomber`
+`cd Bkashsms`
 
 `pip install requests`
 
